@@ -10,13 +10,13 @@
      1.Name of lab\
       2.No. of computers, No. of Networking Devices, No. of Security tools\
       3.Cost per computer, Cost per network device\
-      4.Annual security software cost\
+      4.Annual security software cost
       
 + ***Processing:***\
      Calculate:\
        Computer Cost = Number of Computers × Cost per Computer\
        Network Cost = Number of Network Devices × Cost per Device\
-       Total Lab Investment = Computer Cost + Network Cost + Software Cost\
+       Total Lab Investment = Computer Cost + Network Cost + Software Cost
 
 + ***Output:***\
      1.Name of lab\
