@@ -22,7 +22,7 @@
      1.Name of lab\
       2.No. of computers, No. of Networking Devices, No. of Security tools\
       3.Cost of computers, Cost of network devices, Annual security software cost\
-      4.Total Cost\
+      4.Total Cost
 
 + ***How to Compile:***\
      _[Can be compiled and run in different online and   installed IDEs, for installed IDEs C language compiler should be downloaded and appropriately set up.]_
@@ -30,7 +30,7 @@
 + ***Sample Output:***\
 =======================================\
 &emsp&emsp CYBERSECURITY LAB REPORT
-========================================
+========================================\
 
 Labname : 4wre97yu\
 Computers : 42\
@@ -45,4 +45,4 @@ Software Cost : 8283.89\
 Total Lab Investment : 722165.31\
 ----------------------------------------\
 
-========================================\
+========================================
