@@ -28,9 +28,7 @@
      _[Can be compiled and run in different online and   installed IDEs, for installed IDEs C language compiler should be downloaded and appropriately set up.]_
 
 + ***Sample Output:***\
-=======================================\
-&emsp&emsp CYBERSECURITY LAB REPORT
-========================================
+ CYBERSECURITY LAB REPORT
 
 Labname : 4wre97yu\
 Computers : 42\
@@ -41,7 +39,5 @@ Computer Cost : 20891.97\
 Network Device Cost : 692989.44\
 Software Cost : 8283.89
 
-----------------------------------------\
 Total Lab Investment : 722165.31\
-----------------------------------------\
-========================================
+
