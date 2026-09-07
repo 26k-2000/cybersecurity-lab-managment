@@ -30,16 +30,16 @@
 + ***Sample Output:***\
 =======================================\
 &emsp&emsp CYBERSECURITY LAB REPORT
-========================================\
+========================================
 
 Labname : 4wre97yu\
 Computers : 42\
 Network Devices : 8203\
-Security Tools : 29803\
+Security Tools : 29803
 
 Computer Cost : 20891.97\
 Network Device Cost : 692989.44\
-Software Cost : 8283.89\
+Software Cost : 8283.89
 
 ----------------------------------------\
 Total Lab Investment : 722165.31\
