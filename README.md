@@ -39,5 +39,5 @@ Computer Cost : 20891.97\
 Network Device Cost : 692989.44\
 Software Cost : 8283.89
 
-Total Lab Investment : 722165.31\
+Total Lab Investment : 722165.31
 
